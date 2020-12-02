@@ -1,0 +1,23 @@
+.Container {
+    height: 35px;
+    width: 80%;
+}
+
+.LabelContainer {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: .2rem;
+}
+
+.Label {
+    margin: 0;
+    font-size: .7rem;
+}
+
+.Bar {
+    height: 7px;
+    width: 100%;
+    border-radius: .6rem;
+    background-color: #ccc;
+}
